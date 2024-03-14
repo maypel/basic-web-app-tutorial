@@ -1,0 +1,15 @@
+[
+    {
+        "producteur": "hse",
+        "product": ["2003"] 
+    },
+    {
+        "producteur": "clement",
+        "product": ["cuvée Homer"]
+    },
+    {
+        "producteur": "La Favorite",
+        "product": ["privilege", "canne rouge", "canne bleu"]
+    }
+]
+
